@@ -1,5 +1,5 @@
 sources:
-  "0.0.0.cci.20231003":
+  "0.0.0.cci.20260518":
     url: "https://github.com/WizardMac/librdata/archive/33bd276ecb0bbcd8997ccc71a544149b3da0d940.tar.gz"
     sha256: "fc3e0d655c21d4b5144a0ad73f79a249903b5dde4dc8f7091cd0393d214294a2"
 patches:
